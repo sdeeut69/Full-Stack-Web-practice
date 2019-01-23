@@ -1,0 +1,35 @@
+
+h1 {
+    color: seagreen;
+    text-align: center;
+  }
+  
+  p {
+    color: blue;
+  }
+  
+  div {
+    border: 1px solid brown;
+    padding: 25px;
+    margin-bottom: 25px;
+  }
+  
+  body {
+    background-color: darkgray;
+    
+  }
+  
+  #id1 {
+    color: brown;
+  }
+  
+  .class1 {
+    color: red;
+    font-size: 20px;
+  }
+  
+
+.intro {
+    text-align: center;
+    color: green;
+}
